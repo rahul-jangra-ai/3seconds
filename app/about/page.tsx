@@ -297,7 +297,7 @@ export default function AboutPage() {
               THE 10 ANTI-BORING RULES
             </h2>
             <p className="text-sm text-white/60 font-sans mt-3">
-              The internal rules etched into our studio walls in Mumbai and Bengaluru.
+              The internal rules etched into our studio walls in New York and Los Angeles.
             </p>
           </div>
 

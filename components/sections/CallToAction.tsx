@@ -49,10 +49,10 @@ export function CallToAction() {
           <PhoneCall className="w-3.5 h-3.5 text-hook-orange" />
           <span>Need immediate crisis trend response? Hotline:</span>
           <a
-            href="tel:+919820033333"
+            href="tel:+15553003333"
             className="text-white hover:text-hook-orange font-bold transition-colors underline"
           >
-            +91 98200-33333
+            +1 (555) 300-3333
           </a>
         </div>
       </div>

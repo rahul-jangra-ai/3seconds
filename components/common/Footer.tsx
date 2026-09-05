@@ -54,9 +54,9 @@ export function Footer() {
               <div className="flex items-start space-x-2.5">
                 <MapPin className="w-4 h-4 text-hook-orange flex-shrink-0 mt-0.5" />
                 <div>
-                  <p className="font-bold text-white uppercase font-mono">Mumbai Hub</p>
+                  <p className="font-bold text-white uppercase font-mono">New York Hub</p>
                   <p className="text-white/60">
-                    1503 Signature Lotus, Veera Desai Ind. Estate, Andheri West, Mumbai 400053
+                    594 Broadway, Suite 802, SoHo, New York, NY 10012
                   </p>
                 </div>
               </div>
@@ -64,9 +64,9 @@ export function Footer() {
               <div className="flex items-start space-x-2.5">
                 <MapPin className="w-4 h-4 text-electric-amber flex-shrink-0 mt-0.5" />
                 <div>
-                  <p className="font-bold text-white uppercase font-mono">Bengaluru Hub</p>
+                  <p className="font-bold text-white uppercase font-mono">Los Angeles Hub</p>
                   <p className="text-white/60">
-                    402 Indiranagar 100ft Road, Stage 1, Bengaluru 560038
+                    1327 Abbot Kinney Blvd, Venice, Los Angeles, CA 90291
                   </p>
                 </div>
               </div>
@@ -103,10 +103,10 @@ export function Footer() {
               <div className="flex items-center space-x-2 pt-2">
                 <Phone className="w-4 h-4 text-hook-orange" />
                 <a
-                  href="tel:+919820033333"
+                  href="tel:+15553003333"
                   className="text-white font-bold hover:text-hook-orange transition-colors"
                 >
-                  +91 98200-33333 (Hotline)
+                  +1 (555) 300-3333 (Hotline)
                 </a>
               </div>
             </div>

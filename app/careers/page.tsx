@@ -20,7 +20,7 @@ const roles: CareerRole[] = [
     id: "senior-editor",
     title: "Senior Short-Form Video Editor & Motion Specialist",
     dept: "Creative Direction",
-    location: "Mumbai / Hybrid",
+    location: "New York / Hybrid",
     type: "Full-Time",
     description:
       "Master of Premiere, After Effects, and sound design pacing. You live and breathe micro-cuts, dynamic kinetic typography, and 1.2-second dopamine rhythm.",
@@ -34,7 +34,7 @@ const roles: CareerRole[] = [
     id: "hook-scriptwriter",
     title: "Viral Hook Scriptwriter",
     dept: "Editorial & Strategy",
-    location: "Bengaluru / Hybrid",
+    location: "Los Angeles / Hybrid",
     type: "Full-Time",
     description:
       "Writes 50 punchy 3-second hooks a day for consumer brands. You understand psychology curiosity gaps, pattern interrupts, and conversational memes.",
@@ -48,7 +48,7 @@ const roles: CareerRole[] = [
     id: "meme-strategist",
     title: "Meme Culture Strategist",
     dept: "War Room",
-    location: "Mumbai / Remote",
+    location: "New York / Remote",
     type: "Full-Time",
     description:
       "Monitors real-time Twitter/X, Reddit, and Reel trends. Turns cultural moments into high-impact brand memes within 45 minutes.",
@@ -62,7 +62,7 @@ const roles: CareerRole[] = [
     id: "partnerships-manager",
     title: "Creator Partnerships Manager",
     dept: "Syndicate Operations",
-    location: "Mumbai / Hybrid",
+    location: "Los Angeles / Hybrid",
     type: "Full-Time",
     description:
       "Coordinates talent briefs, contracts, SLA delivery, and relationships across our network of 250+ internet creators.",
@@ -76,7 +76,7 @@ const roles: CareerRole[] = [
     id: "ai-creative-technologist",
     title: "AI Creative Technologist",
     dept: "Innovation & Labs",
-    location: "Bengaluru / Hybrid",
+    location: "New York / Hybrid",
     type: "Full-Time",
     description:
       "Implements generative video tools (Runway, Kling, Midjourney, ComfyUI) and Antigravity IDE automated pipelines for high-speed creative experimentation.",
@@ -106,8 +106,8 @@ const perks = [
   },
   {
     icon: MapPin,
-    title: "Flexible Hubs in Mumbai & BLR",
-    desc: "Vibrant creative hubs in Veera Desai (Mumbai) and Indiranagar (Bengaluru) with hybrid remote flexibility.",
+    title: "Flexible Hubs in NYC & LA",
+    desc: "Vibrant creative hubs in SoHo (New York) and Venice (Los Angeles) with hybrid remote flexibility.",
   },
 ];
 

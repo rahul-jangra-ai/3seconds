@@ -112,7 +112,7 @@ export function Preloader({ onComplete }: PreloaderProps) {
         className="absolute bottom-0 left-0 w-full h-1/2 bg-[#0A0A0A] border-t border-white/10 flex items-start justify-center pt-8"
       >
         <div className="text-white/20 text-xs font-mono tracking-[0.3em] uppercase">
-          est. 2026 // mumbai • bengaluru
+          est. 2026 // new york • los angeles
         </div>
       </div>
 

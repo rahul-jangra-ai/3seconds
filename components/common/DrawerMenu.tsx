@@ -146,7 +146,7 @@ export function DrawerMenu({ isOpen, onClose }: DrawerMenuProps) {
           >
             hook@3seconds.media
           </a>
-          <p className="text-black/60">+91 98200-33333 (Mumbai & BLR)</p>
+          <p className="text-black/60">+1 (555) 300-3333 (NYC &amp; LA)</p>
         </div>
 
         <div className="flex items-center md:justify-end space-x-4 text-black/60">

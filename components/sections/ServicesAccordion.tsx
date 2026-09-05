@@ -35,7 +35,7 @@ const servicesData: ServiceItem[] = [
       "Engineered from the very first frame to beat platform drop-off curves. We script, cast, shoot, and sound-design high-energy vertical reels.",
     points: [
       "Proprietary 3-second hook testing methodology (A/B/C/D variants)",
-      "Full-stack production crew in Mumbai and Bengaluru delivering 50+ high-retention assets monthly",
+      "Full-stack production crew in New York and Los Angeles delivering 50+ high-retention assets monthly",
       "Targeting 85%+ Average Percentage Viewed (APV) on Reels, TikTok & Shorts",
     ],
     metric: "94% 3-Second Hook Retention",

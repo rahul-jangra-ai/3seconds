@@ -73,8 +73,8 @@ export default function ContactPage() {
                   <Phone className="w-4 h-4 text-hook-orange flex-shrink-0" />
                   <div>
                     <span className="text-black/40 uppercase text-[10px] block">National Hotline</span>
-                    <a href="tel:+919820033333" className="font-bold text-[#121212] hover:text-hook-orange">
-                      +91 98200-33333
+                    <a href="tel:+15553003333" className="font-bold text-[#121212] hover:text-hook-orange">
+                      +1 (555) 300-3333
                     </a>
                   </div>
                 </div>
@@ -91,7 +91,7 @@ export default function ContactPage() {
 
                 {/* Instant WhatsApp */}
                 <a
-                  href="https://wa.me/919820033333?text=Hey%203seconds,%20we%20want%20to%20hook%20our%20audience!"
+                  href="https://wa.me/15553003333?text=Hey%203seconds,%20we%20want%20to%20hook%20our%20audience!"
                   target="_blank"
                   rel="noreferrer"
                   data-cursor="WHATSAPP"
@@ -166,19 +166,19 @@ export default function ContactPage() {
                 <div className="flex items-start space-x-3">
                   <MapPin className="w-4 h-4 text-hook-orange flex-shrink-0 mt-0.5" />
                   <div>
-                    <strong className="text-[#121212] uppercase font-mono block">Mumbai Hub</strong>
+                    <strong className="text-[#121212] uppercase font-mono block">New York Hub</strong>
                     <p className="text-black/60">
-                      Lotus Grandeur, Veera Desai Industrial Estate, Andheri West, Mumbai 400053
+                      594 Broadway, Suite 802, SoHo, New York, NY 10012
                     </p>
                   </div>
                 </div>
 
-                <div className="flex items-start space-x-3">
+                <div className="flex items-start space-x-2.5">
                   <MapPin className="w-4 h-4 text-electric-amber flex-shrink-0 mt-0.5" />
                   <div>
-                    <strong className="text-[#121212] uppercase font-mono block">Bengaluru Hub</strong>
+                    <strong className="text-[#121212] uppercase font-mono block">Los Angeles Hub</strong>
                     <p className="text-black/60">
-                      402 Indiranagar 100ft Road, Stage 1, Bengaluru 560038
+                      1327 Abbot Kinney Blvd, Venice, Los Angeles, CA 90291
                     </p>
                   </div>
                 </div>
@@ -209,7 +209,7 @@ export default function ContactPage() {
                   Hook Received!
                 </h3>
                 <p className="font-sans text-base text-text-dark-secondary max-w-md mx-auto leading-relaxed">
-                  Our strategic directors in Mumbai & Bengaluru have received your campaign parameters. Expect a preliminary hook diagnosis in your inbox within <strong className="text-hook-orange">3 hours</strong>.
+                  Our strategic directors in New York & Los Angeles have received your campaign parameters. Expect a preliminary hook diagnosis in your inbox within <strong className="text-hook-orange">3 hours</strong>.
                 </p>
                 <div className="pt-4">
                   <button
@@ -273,7 +273,7 @@ export default function ContactPage() {
                     </label>
                     <input
                       required
-                      placeholder="+91 98200-XXXXX"
+                      placeholder="+1 (555) 300-XXXX"
                       value={formData.phone}
                       onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                       className="w-full px-4 py-3.5 rounded-xl border border-black/15 focus:border-hook-orange focus:outline-none bg-[#FAF6EE] text-[#121212]"
